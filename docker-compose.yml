@@ -1,0 +1,8 @@
+services:
+  fluide:
+    build: .
+    image: fluide:latest
+    container_name: fluide
+    ports:
+      - "8080:80"
+    restart: unless-stopped
