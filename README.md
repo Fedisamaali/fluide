@@ -2,6 +2,8 @@
 
 Simulation de fluides en temps réel (équations de Navier–Stokes) qui tourne entièrement sur le GPU, dans le navigateur, avec WebGL2. Aucune dépendance.
 
+**Essayer en ligne : https://fedisamaali.github.io/fluide/**
+
 ## Lancer avec Docker (Mac, Linux, Windows)
 
 Prérequis : [Docker Desktop](https://www.docker.com/products/docker-desktop/) lancé. Fonctionne sur les Mac Intel comme Apple Silicon (M1 à M4).
